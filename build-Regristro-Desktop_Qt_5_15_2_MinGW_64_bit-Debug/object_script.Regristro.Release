@@ -1,0 +1,10 @@
+release/estudiante.o
+release/grafica.o
+release/ingreso.o
+release/main.o
+release/principal.o
+release/usuario.o
+release/qrc_Recursos.o
+release/moc_grafica.o
+release/moc_ingreso.o
+release/moc_principal.o

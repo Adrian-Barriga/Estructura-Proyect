@@ -1,0 +1,10 @@
+debug/estudiante.o
+debug/grafica.o
+debug/ingreso.o
+debug/main.o
+debug/principal.o
+debug/usuario.o
+debug/qrc_Recursos.o
+debug/moc_grafica.o
+debug/moc_ingreso.o
+debug/moc_principal.o
